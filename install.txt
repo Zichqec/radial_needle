@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,Radial Needle
+directory,radial_needle_zi
